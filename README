@@ -1,0 +1,9 @@
+Provided are 2 GEZEL files for respective simulations:
+- coproc_rsa.fdl - RSA simulation
+- coproc_elgamal.fdl - ElGamal simulation
+
+A makefile is used to generate the necessary *.ihxs by issuing
+- make - for everything
+- make rsa - for RSA
+- make elgamal - for ElGamal
+- make clean - to clean up the folder of temporary files
